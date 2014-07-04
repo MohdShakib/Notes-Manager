@@ -1,0 +1,33 @@
+
+/*
+    Created By Mohd Shakib on 03-July-2014
+*/
+
+
+.listContainer{
+    border: 1px solid gainsboro;
+    background-color: white;
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+
+.listContainer ul{
+    margin-top: 10px;
+}
+
+.listContainer ul > li{
+    cursor: pointer;
+    padding: 10px 15px;
+}
+
+.listContainer ul > li:hover{
+    cursor: pointer;
+}
+
+.close{
+    float:right;
+}
+
+#empty-list {
+	text-align: center;
+}
